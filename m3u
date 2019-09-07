@@ -17,3 +17,15 @@ http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37133
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37132
 #EXTINF:-1,AXN HD
 http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36991
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/bis.png" group-title="Canais | Variedades",BIS SD [Alter]
+http://psrv.io:80/OTTH591/5kgd1leleK/22236
+#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="https://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang FHD
+http://psrv.io:80/OTTH591/5kgd1leleK/18851
+#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD [H265] [Alter]" tvg-logo="http://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang FHD [H265] [Alter]
+http://psrv.io:80/OTTH591/5kgd1leleK/22149
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="https://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang HD
+http://psrv.io:80/OTTH591/5kgd1leleK/18718
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD" tvg-logo="https://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang SD
+http://psrv.io:80/OTTH591/5kgd1leleK/18719
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang SD [Alter]
+http://psrv.io:80/OTTH591/5kgd1leleK/22332
