@@ -1,31 +1,21 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37130
-#EXTINF:-1,A&E HD
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36929
-#EXTINF:-1,Aeromsith
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/42571
-#EXTINF:-1,Agro Canal
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/40244
-#EXTINF:-1,Animal Planet
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37128
-#EXTINF:-1,Animal Planet HD
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36992
-#EXTINF:-1,Arte 1
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37133
-#EXTINF:-1,AXN
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/37132
-#EXTINF:-1,AXN HD
-http://tv.factoryiptv.com:80/AGw1JcX7j/controliptv/36991
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/bis.png" group-title="Canais | Variedades",BIS SD [Alter]
-http://psrv.io:80/OTTH591/5kgd1leleK/22236
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="https://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang FHD
-http://psrv.io:80/OTTH591/5kgd1leleK/18851
-#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD [H265] [Alter]" tvg-logo="http://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang FHD [H265] [Alter]
-http://psrv.io:80/OTTH591/5kgd1leleK/22149
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="https://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang HD
-http://psrv.io:80/OTTH591/5kgd1leleK/18718
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD" tvg-logo="https://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang SD
-http://psrv.io:80/OTTH591/5kgd1leleK/18719
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang SD [Alter]" tvg-logo="http://static.psrv.io/logos/canais/boomerang.png" group-title="Canais | Infantis",Boomerang SD [Alter]
-http://psrv.io:80/OTTH591/5kgd1leleK/22332
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="Animal Planet" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" group-title="Documentários",Animal Planet
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/399
+#EXTINF:-1 tvg-id="a02f" tvg-name="Animal Planet HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" group-title="Documentários",Animal Planet HD
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/75
+#EXTINF:-1 tvg-id="a02f" tvg-name="Animal Planet FullHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" group-title="Canais FullHD",Animal Planet FullHD
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/74
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="Animal Planet HD [Alter]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" group-title="Documentários",Animal Planet HD [Alter]
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/16522
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E" tvg-logo="https://vignette.wikia.nocookie.net/world-of-media/images/7/7e/A%26E_Network_2004.png/revision/latest?cb=20140106001118" group-title="Canais de Séries",A&E
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/405
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146" group-title="Canais de Séries",A&E HD
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/404
+#EXTINF:-1 tvg-id="a06q" tvg-name="A&E FullHD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146" group-title="Canais FullHD",A&E FullHD
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/12865
+#EXTINF:-1 tvg-id="AeE" tvg-name="A&E HD [Alter]" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146" group-title="Canais de Séries",A&E HD [Alter]
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/16524
+#EXTINF:-1 tvg-id="AMC" tvg-name="Amc" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/AMC_logo_2013.png" group-title="Canais de Filmes",Amc
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/403
+#EXTINF:-1 tvg-id="AMC" tvg-name="Amc HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais de Filmes",Amc HD
+http://lista.clienteiptv.com:80/ezy5qk/0d7cjs/401
